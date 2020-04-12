@@ -26,5 +26,5 @@ Cuando el horno esté caliente metemos la bandeja y lo tendremos unos 30-45 minu
 Resultado
 =======
 ## Resultado
->>>>>>> fb91d3efc56254f70fb4bbef8b2adcba875145dd
+
 Un excelente postre o dulce para compañar el desayuno o la merienda. Está buenísimo con natillas o nata líquida por encima, sobre todo si la echamos fría, ya que contrasta y queda estupendo.
