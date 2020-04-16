@@ -1,5 +1,4 @@
-# 
-Recetas de cocina para nuestro taller de git
+# Recetas de cocina para nuestro taller de git
 
-
-Este repositorio contiene las recetas de cocina que aportan los alumnos del taller de TALENT.
+Repositorio que contiene las recetas de cocina que aportan
+los alumnos del taller de TALENT dirigido por **Borja Martín**
